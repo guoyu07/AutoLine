@@ -1,0 +1,16 @@
+.webassets-cache/
+webassets-external/
+.DS_Store
+*.pyc
+*.pyo
+venv
+env
+*.env
+env*
+dist
+*.egg
+*.egg-info
+*.sqlite
+.idea
+dump.rdb
+.vscode/
